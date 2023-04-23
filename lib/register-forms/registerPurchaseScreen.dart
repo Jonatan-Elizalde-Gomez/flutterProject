@@ -18,7 +18,7 @@ class _RegisterPurchaseScreenState extends State<RegisterPurchaseScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Register Form'),
+        title: Text('Purchase'),
       ),
       body: Padding(
         padding: EdgeInsets.all(16.0),

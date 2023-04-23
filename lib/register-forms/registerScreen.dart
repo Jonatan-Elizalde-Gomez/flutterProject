@@ -117,7 +117,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   validationMessage: 'Please enter your role',
                   changes: (value) {
                     setState(() {
-                      _password = value;
+                      _role = value;
                     });
                   },
                 ),

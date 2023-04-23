@@ -22,7 +22,7 @@ class _RegisterSalesScreenState extends State<RegisterSalesScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Register Form'),
+        title: Text('Sales'),
       ),
       body: Padding(
         padding: EdgeInsets.all(16.0),
